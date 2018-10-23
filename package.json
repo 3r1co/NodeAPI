@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "body-parser": "1.9.x",
-    "express": "4.10.x",
+    "express": "4.15.5",
     "faker": "2.0.x",
     "method-override": "2.3.x",
     "mongoose": "3.8.x",
@@ -19,7 +19,7 @@
     "passport-http": "0.2.x",
     "passport-http-bearer": "1.0.x",
     "passport-oauth2-client-password": "0.1.x",
-    "serve-favicon": "2.1.x",
+    "serve-favicon": "2.4.5",
     "winston": "0.8.x"
   },
   "license": "MIT"
